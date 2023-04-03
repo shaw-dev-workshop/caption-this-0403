@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Ken's caption
 
-![defunktocat](https://octodex.github.com/images/defunktocat.png)
+[defunktocat](https://octodex.github.com/images/defunktocat.png)
 {: .center}
