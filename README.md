@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: April 3 - 4, 2023
+- Facilitator: @cody-carlson
 
 ## Class Resources
 
